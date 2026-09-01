@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : นายเมธัส นายสู่
 
-GitHub Page URL :
+GitHub Page URL : https://methas-ent.github.io/lab11-680610708/
 
 ---
 
